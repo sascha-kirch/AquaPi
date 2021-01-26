@@ -1,7 +1,7 @@
 <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/logo.png" width="200" />
 
 # AquaPi
-AquaPi is a plant watering project using a Raspberry Pi and an Arduino Uno. The Raspberry Pi is the master device. It processes the user's input via a XBox controller, it shows a menu on the LCD display, it manages the Arduino and its connected sensors and it hosts and updates a database and a web interface.
+AquaPi is a plant watering project using a Raspberry Pi and an Arduino Uno. The Raspberry Pi is the master device. It processes the user's input via a XBox controller, it shows a menu on the LCD display, it manages the Arduino and its connected sensors and it hosts and updates a database and a web interface. The arduino controlls the sensors and the actuators and communicates via USB with the RaspberryPi
 
 <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/setup.PNG" width="600" />
 
