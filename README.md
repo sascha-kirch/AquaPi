@@ -51,8 +51,8 @@ Database Management | PHPMyAdmin | ``` sudo apt-get install phpmyadmin ```
 
 A webinterface is provided, to retrive the content of the database and to provide help. The design is responsive and can be used on the smartphone as well (only workes on Android, due to the API used for graphical representation)
 
-**Desktop view webinterface**:
+**Desktop view AquaPi webinterface**:
 > <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/webinterface_desktop.PNG" width="800" />
 
-**Smartphone view webinterface**:
+**Smartphone view AquaPi webinterface**:
 > <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/webinterface_android.PNG" width="300" />
