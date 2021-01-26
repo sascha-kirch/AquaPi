@@ -7,11 +7,21 @@ AquaPi is a plant watering project using a Raspberry Pi and an Arduino Uno. The 
 
 ## Hardware
 
-
 ### Electronics
 
 The schemetic of the electronics is shown in the image bellow:
 > <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/schematic.png" width="800" />
+
+The table below shows an image of the components used for this project.
+Component | Details | Image Model
+------------ | ------------- | -------------
+Temperature and Humidity Sensor | DHT11, 16bit |  <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/temperatur.PNG" width="150" /> 
+Water level sensor | Capacitive sensor |  <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/waterlevel.PNG" width="150" /> 
+Soil moisture sensor |  Capacitive sensor  | <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/moisture.PNG" width="150" /> 
+Water pump |  3V and 5V, 100 liters per hour  | <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/waterpump.PNG" width="150" />
+Relay |  -  | <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/relay.PNG" width="150" />
+Display |  HD44780 1602 LCD Module  | <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/display.PNG" width="150" />
+
 
 ### Mechanics
 
