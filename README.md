@@ -56,3 +56,7 @@ A webinterface is provided, to retrive the content of the database and to provid
 
 **Smartphone view AquaPi webinterface**:
 > <img src="https://github.com/SaKi1309/AquaPi/blob/main/imgs/webinterface_android.PNG" width="300" />
+
+
+# Repo Stats
+![](https://komarev.com/ghpvc/?username=saschakirchaquapi&color=yellow) since 16.04.2022
